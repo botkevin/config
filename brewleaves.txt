@@ -2,6 +2,15 @@ bat
 fd
 fish
 fzf
-python-matplotlib
+ghostscript
+go
+jq
+minikube
+node
+pipx
 ripgrep
 sshpass
+tmux
+uv
+xclip
+zoxide
